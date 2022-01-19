@@ -1,13 +1,20 @@
 body {
-    background-color: lightblue;
+    background-color:#7aced1;
     }
     
     h1 {
-    color: white;
+    color:midnightblue;
     text-align: center;
     }
     
+    h2{
+        font-family: 'Times New Roman', Times, serif;
+        color:rgb(36, 55, 163);
+        text-align: center;
+        
+    }
+    
     p {
-    font-family: verdana;
-    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
     }
